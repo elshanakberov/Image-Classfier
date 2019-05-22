@@ -1,6 +1,6 @@
 ## Image Classifier
 
-**Convolutional Neural Network** classifies images of *Dog* and *Cat*. It was developed with the help of *Jupyter Notebook* and *Google Colab*
+**Convolutional Neural Network** classifies images of *Dogs* and *Cats*. It was developed with the help of *Jupyter Notebook* and *Google Colab*
 
 ### Dataset  
 
