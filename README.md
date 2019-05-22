@@ -6,7 +6,7 @@
 
 [Dogs and Cat](https://www.kaggle.com/c/dogs-vs-cats) data set was used for the network training.
 
-###Folder Structure
+### Folder Structure
 
 
     dataset/
